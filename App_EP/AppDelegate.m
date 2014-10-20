@@ -7,12 +7,26 @@
 //
 
 #import "AppDelegate.h"
+#import <GoogleMaps/GoogleMaps.h>
+
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [GMSServices provideAPIKey:@"AIzaSyAdjF0PlFwc1whEuR-JdzRumPYa5A2IsXA"];
     // Override point for customization after application launch.
+    
+    /*
+    [[UINavigationBar appearance]setBackgroundColor:[UIColor colorWithRed:(0/255.0) green:(102/255.0) blue:(153/255.0) alpha:1.0]];
+     */
+    [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:(0/255.0) green:(102/255.0) blue:(153/255.0) alpha:1.0]];
+    [[UINavigationBar appearance] setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
+    [[UINavigationBar appearance]setTintColor:[UIColor whiteColor]];
+    
+    
+    
+    
     return YES;
 }
 							

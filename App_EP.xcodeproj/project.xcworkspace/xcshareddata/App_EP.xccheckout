@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1F89AB9-CD09-41A4-B913-20C5A262896B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>App_EP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9E91FAF353708780242051710BCFDC6C04F5CE8D</key>
+		<string>https://github.com/app-vlambert/App_EP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>App_EP.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9E91FAF353708780242051710BCFDC6C04F5CE8D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/app-vlambert/App_EP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9E91FAF353708780242051710BCFDC6C04F5CE8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9E91FAF353708780242051710BCFDC6C04F5CE8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>App_EP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
